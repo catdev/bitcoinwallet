@@ -1,0 +1,22 @@
+public class TestBitcoinWallet 
+{
+   BitcoinWallet c= null;
+   @Mock
+   BitcoinWalletService service = new BitcoinWalletService(){
+       public int add(int i, int j){
+           //TODO Auto-generated method stub
+           return 0;
+       }
+       };
+   
+   @Before
+   public void setUp()
+   {
+       c = new Bitcoin(service);
+   }
+   @Test
+   public void testAdd()
+   {
+       assertEquals(10, c.perform(2,3)))
+   }
+}
