@@ -1,0 +1,67 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+
+package bitcoin.wallet;
+
+/**
+ *
+ * @author Catrina Craft
+ */
+public classBitcoinWallet {
+//**declare wallet class
+public static void main(String[] args) throws Exception {
+// Bitcoin price at that time
+double num = 1                
+new Currency(“Bitcoin”, 1.0),
+new Currency(“USD”, 6,974.00),
+   double y = price_point.getDouble("y");
+  // Do something with x and y.
+            System.out.println(x);
+double num = 6,974.00
+
+var a = 1.0;
+var b = 6,974.00;
+var c = (a / b));
+trace(c); // 10 (Float);
+
+
+public class BigDecimalExample
+{
+public static void main(String[] args) 
+BigDecimal USD = new BigDecimal (1.00);
+BigDecimal Bitcoin = new BigDecimal (0.00014);
+private final Bitcoin;
+private final BigDecimal Amount;
+public Currency(String name, BigDecimal rate) 
+{
+this.name = name;
+this.rate = rate;
+}
+}
+
+Currency[] currencies = {
+new Currency(“Bitcoin”, 1.0),
+new Currency(“USD”, 7,005.00),
+double sourceAmount = …….;// 
+String sourceCurrency = ……;//
+String targetCurrency =………; //
+double targetAmount = (sourceAmount /rateToDollars * rateTOTarget;
+BitcoinTestFramework() :
+“” Base class for a bitcoin test script individual bitcoin test scr
+  public BitcoinPricer getBitcoinValueInDollars(bitcoin: double): double
+    trace("A new calculator instance was created!");
+  } 
+public function add(a:68.06:, b: 68): Int {
+    return a + b;
+  }
+   public function multiply(a:Int, b:Int):Int {
+    return a * b;
+  }
+}
+
+
+
+}
